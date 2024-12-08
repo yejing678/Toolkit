@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="B4pyOg4AMBI9atJZFbfN-68" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;strokeColor=none;fillColor=#fff2cc;opacity=40;" parent="1" vertex="1">
-          <mxGeometry x="-3000" y="1399" width="770" height="471" as="geometry" />
+          <mxGeometry x="-3020" y="1399" width="770" height="471" as="geometry" />
         </mxCell>
         <mxCell id="B4pyOg4AMBI9atJZFbfN-66" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#d5e8d4;strokeColor=none;opacity=40;" parent="1" vertex="1">
           <mxGeometry x="-3299.5" y="1399" width="269" height="471" as="geometry" />
@@ -249,10 +249,10 @@
           <mxGeometry x="-2279" y="1410" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fWJYr972lheAkk3joeLT-1" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot; face=&quot;Comic Sans MS&quot;&gt;（1）&lt;i style=&quot;&quot;&gt;Emotional Support Experience Acquisition&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=none;shadow=1;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-3299.5" y="1328" width="309.5" height="50" as="geometry" />
+          <mxGeometry x="-3299.5" y="1328" width="319.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fWJYr972lheAkk3joeLT-2" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ffffff&quot; face=&quot;Comic Sans MS&quot;&gt;（2）&lt;i style=&quot;&quot;&gt;Self-Reflection &amp;amp;&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ffffff&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;i style=&quot;&quot;&gt;Self-Refinement&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=none;shadow=1;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-2890" y="1328" width="265" height="50" as="geometry" />
+          <mxGeometry x="-2900" y="1328" width="265" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fWJYr972lheAkk3joeLT-3" value="" style="endArrow=none;dashed=1;html=1;rounded=1;curved=0;strokeColor=#808080;dashPattern=12 12;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -261,21 +261,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fWJYr972lheAkk3joeLT-4" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ffffff&quot; face=&quot;Comic Sans MS&quot;&gt;（3）&lt;i&gt;Personalize Perference Alignamnet&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=none;shadow=1;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-2515" y="1328" width="285" height="50" as="geometry" />
+          <mxGeometry x="-2535" y="1328" width="285" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fWJYr972lheAkk3joeLT-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#4D4D4D;strokeColor=#666666;width=16.49122807017544;endSize=6.673684210526315;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2976" y="1352.47" as="sourcePoint" />
             <mxPoint x="-2906" y="1352.47" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-2930" y="1352" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fWJYr972lheAkk3joeLT-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#4D4D4D;strokeColor=#666666;width=15.5;endSize=7.655;shadow=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2610" y="1374" as="sourcePoint" />
-            <mxPoint x="-2610" y="1332" as="targetPoint" />
+            <mxPoint x="-2625" y="1374" as="sourcePoint" />
+            <mxPoint x="-2625" y="1332" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-2540" y="1372" />
-              <mxPoint x="-2540" y="1332" />
+              <mxPoint x="-2555" y="1372" />
+              <mxPoint x="-2555" y="1332" />
             </Array>
           </mxGeometry>
         </mxCell>
