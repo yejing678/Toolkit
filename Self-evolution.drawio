@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
   <diagram name="Page-1" id="JJCV0a0skRuT-O4mbDWe">
-    <mxGraphModel dx="7616" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="8527" dy="966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -236,10 +236,10 @@
           <mxGeometry x="-2279" y="1410" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fWJYr972lheAkk3joeLT-1" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot; face=&quot;Comic Sans MS&quot;&gt;（1）&lt;i style=&quot;&quot;&gt;Emotional Support Experience Acquisition&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=none;shadow=1;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-3299.5" y="1328" width="269.5" height="50" as="geometry" />
+          <mxGeometry x="-3299.5" y="1328" width="409.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fWJYr972lheAkk3joeLT-2" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot; face=&quot;Comic Sans MS&quot;&gt;（2）&lt;i style=&quot;&quot;&gt;Self-Improvement For Personalized Support&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=none;shadow=1;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-2805" y="1328" width="440" height="50" as="geometry" />
+          <mxGeometry x="-2709" y="1328" width="440" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fWJYr972lheAkk3joeLT-3" value="" style="endArrow=none;dashed=1;html=1;rounded=1;curved=0;strokeColor=#808080;dashPattern=12 12;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -249,10 +249,10 @@
         </mxCell>
         <mxCell id="fWJYr972lheAkk3joeLT-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#4D4D4D;strokeColor=#666666;width=16.49122807017544;endSize=6.673684210526315;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2950" y="1352.64" as="sourcePoint" />
-            <mxPoint x="-2880" y="1352.64" as="targetPoint" />
+            <mxPoint x="-2830" y="1352.88" as="sourcePoint" />
+            <mxPoint x="-2760" y="1352.88" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-2904" y="1352.17" />
+              <mxPoint x="-2784" y="1352.41" />
             </Array>
           </mxGeometry>
         </mxCell>
