@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
   <diagram name="Page-1" id="JJCV0a0skRuT-O4mbDWe">
-    <mxGraphModel dx="9247" dy="1368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="7616" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -383,8 +383,8 @@
         <mxCell id="SOH38_3WXaLhCbqXXnT1-22" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i style=&quot;background-color: rgb(0, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;Academic Pressure&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-5070" y="1070" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SOH38_3WXaLhCbqXXnT1-23" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 20px; background-color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;&lt;i&gt;Prompt for chosen response&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-5040" y="2200" width="250" height="40" as="geometry" />
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-23" value="&lt;font style=&quot;font-size: 23px;&quot; face=&quot;Times New Roman&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;background-color: rgb(0, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;i style=&quot;&quot;&gt;Prompt for chosen response&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-5040" y="2195" width="330" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
