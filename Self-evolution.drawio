@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
   <diagram name="Page-1" id="JJCV0a0skRuT-O4mbDWe">
-    <mxGraphModel dx="8527" dy="2066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="8023" dy="1784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -336,49 +336,49 @@
           <mxGeometry x="-5080" y="2094" width="350" height="49.99" as="geometry" />
         </mxCell>
         <mxCell id="SOH38_3WXaLhCbqXXnT1-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-6150" y="1090" width="840" height="770" as="geometry" />
+          <mxGeometry x="-6150" y="1470" width="840" height="770" as="geometry" />
         </mxCell>
         <mxCell id="SOH38_3WXaLhCbqXXnT1-2" value="&lt;div style=&quot;line-height: 29px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 19px; white-space: pre;&quot;&gt;I have encountered a big problem in my research, what should I do?&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.03;position2=0;base=21;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-6130" y="1120" width="590" height="50" as="geometry" />
+          <mxGeometry x="-6130" y="1500" width="590" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SOH38_3WXaLhCbqXXnT1-3" value="&lt;div style=&quot;line-height: 29px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px; white-space: pre;&quot;&gt;Hello there. I&#39;m sorry to here that.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.87;position2=1;base=20;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-5640" y="1170" width="310" height="50" as="geometry" />
+          <mxGeometry x="-5640" y="1550" width="310" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SOH38_3WXaLhCbqXXnT1-4" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;I&#39;m so anxious&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.07;position2=0;base=21;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-6130" y="1230" width="140" height="50" as="geometry" />
+          <mxGeometry x="-6130" y="1610" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SOH38_3WXaLhCbqXXnT1-5" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;Im sorry about that. What seems to be the issue?&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.95;position2=1;base=17;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-5750" y="1280" width="420" height="54" as="geometry" />
+          <mxGeometry x="-5750" y="1660" width="420" height="54" as="geometry" />
         </mxCell>
         <mxCell id="SOH38_3WXaLhCbqXXnT1-6" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;I have encountered a big problem in my research&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.04;position2=0;base=21;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-6130" y="1343.75" width="400" height="47.72" as="geometry" />
+          <mxGeometry x="-6130" y="1723.75" width="400" height="47.72" as="geometry" />
         </mxCell>
         <mxCell id="SOH38_3WXaLhCbqXXnT1-9" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;I am anxious and can&#39;t sleep every day. I may delay graduation.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=8;position=0.04;position2=0;base=21;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-6130" y="1457" width="510" height="49.99" as="geometry" />
+          <mxGeometry x="-6130" y="1837" width="510" height="49.99" as="geometry" />
         </mxCell>
         <mxCell id="SOH38_3WXaLhCbqXXnT1-10" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot; face=&quot;Times New Roman&quot;&gt;That&#39;s no good, Have you tried taking anything for anxiety?&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.95;position2=1;base=17;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-5850" y="1524.01" width="520" height="55.99" as="geometry" />
+          <mxGeometry x="-5850" y="1904.01" width="520" height="55.99" as="geometry" />
         </mxCell>
         <mxCell id="SOH38_3WXaLhCbqXXnT1-12" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot; face=&quot;Times New Roman&quot;&gt;No.&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=11;position=0.14;position2=0;base=21;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-6130" y="1590.76" width="70" height="49.99" as="geometry" />
+          <mxGeometry x="-6130" y="1970.76" width="70" height="49.99" as="geometry" />
         </mxCell>
         <mxCell id="SOH38_3WXaLhCbqXXnT1-13" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 19px;&quot;&gt;What is causing this?&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.91;position2=1;base=11;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-5560" y="1650" width="230" height="50" as="geometry" />
+          <mxGeometry x="-5560" y="2030" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SOH38_3WXaLhCbqXXnT1-15" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;My research has not been making good progress.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=9;position=0.07;position2=0;base=21;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-6130" y="1710" width="400" height="49.99" as="geometry" />
+          <mxGeometry x="-6130" y="2090" width="400" height="49.99" as="geometry" />
         </mxCell>
         <mxCell id="SOH38_3WXaLhCbqXXnT1-16" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-6070" y="1397" width="740" height="92" as="geometry" />
+          <mxGeometry x="-6070" y="1777" width="740" height="92" as="geometry" />
         </mxCell>
         <mxCell id="SOH38_3WXaLhCbqXXnT1-7" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 19px;&quot;&gt;Is it possible for me to assist you with your task?&lt;/span&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.95;position2=1;base=17;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;align=center;" vertex="1" parent="SOH38_3WXaLhCbqXXnT1-16">
           <mxGeometry x="320" width="420" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SOH38_3WXaLhCbqXXnT1-17" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot; face=&quot;Times New Roman&quot;&gt;Do you talk to anyone else who might feel similar?&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.91;position2=1;base=19;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-5760" y="1783.01" width="430" height="56.99" as="geometry" />
+          <mxGeometry x="-5760" y="2163.01" width="430" height="56.99" as="geometry" />
         </mxCell>
         <mxCell id="SOH38_3WXaLhCbqXXnT1-21" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i style=&quot;background-color: rgb(0, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;Academic Pressure&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-6110" y="1070" width="250" height="40" as="geometry" />
+          <mxGeometry x="-6110" y="1450" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SOH38_3WXaLhCbqXXnT1-22" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i style=&quot;background-color: rgb(0, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;Academic Pressure&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-5070" y="1070" width="250" height="40" as="geometry" />
@@ -469,6 +469,69 @@
         </mxCell>
         <mxCell id="SOH38_3WXaLhCbqXXnT1-53" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;Take care of yourself and have enough rest.&amp;nbsp;Feel free to reach out if you ever need someone to talk to or any other assistance. I&#39;m always here.&lt;/span&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.95;position2=1;base=17;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="-4060" y="470" width="725" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-54" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-6190" y="-90" width="840" height="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-55" value="&lt;div style=&quot;line-height: 29px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 19px; white-space: pre;&quot;&gt;Hello, my girlfriend thinks I&#39;m lazy, but she&#39;s misunderstood me.&lt;/span&gt;&lt;/font&gt;&amp;nbsp;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.03;position2=0;base=21;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-6170" y="-60" width="590" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-56" value="&lt;div style=&quot;line-height: 29px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px; white-space: pre;&quot;&gt;Hello there. I&#39;m sorry to here that.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.87;position2=1;base=20;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-5680" y="-10" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-57" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;What should i do to prove this?&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.07;position2=0;base=21;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-6170" y="50" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-58" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;I understand that you&#39;re feeling upset. What would you like to talk about?&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.95;position2=1;base=17;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-6000" y="109.75" width="630" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-59" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&amp;nbsp;I wanna suggestions.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=8;position=0.1;position2=0;base=21;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-6170" y="180" width="210" height="47.72" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-60" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;She saw i played games when i was working, but i finish my work on time still.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=8;position=0.04;position2=0;base=21;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-6170" y="309" width="640" height="49.99" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-61" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;I see. It sounds like she might be misunderstanding you.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.95;position2=1;base=17;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-5890" y="384" width="520" height="55.99" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-62" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;Yes.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=11;position=0.14;position2=0;base=21;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-6160" y="450" width="70" height="49.99" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-63" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;Do you feel that you need to explain this to her?&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.91;position2=1;base=18;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-5800" y="510" width="420" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-64" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;Yes, but i failed.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=9;position=0.07;position2=0;base=21;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-6170" y="590" width="180" height="49.99" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-65" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-6110" y="217" width="740" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-66" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;What sort of things have you been doing that she thinks are lazy?&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=8;position=0.93;position2=1;base=23;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;align=center;" vertex="1" parent="SOH38_3WXaLhCbqXXnT1-65">
+          <mxGeometry x="130" y="21" width="610" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-67" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;It sounds like you&#39;ve tried talking to her but she still thinks you&#39;re lazy.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.91;position2=1;base=31;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-5950" y="639.99" width="570" height="56.99" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-68" value="&lt;b style=&quot;color: rgb(255, 255, 255); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 20px;&quot;&gt;&lt;i&gt;Relationship Problem&lt;/i&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-6150" y="-110" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-69" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;You are right. So what should I explain to her?&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.05;position2=0;base=21;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-6170" y="720.01" width="380" height="49.99" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-70" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;Have you tried showing her evidence that you&#39;ve completed your work on time?&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.91;position2=1;base=39;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-6040" y="790" width="660" height="56.99" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-71" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;Yes, i have shown my evidence.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=9;position=0.07;position2=0;base=21;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-6170" y="875" width="270" height="49.99" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-72" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&amp;nbsp;Have you tried to explain to her why you were playing games?&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.91;position2=1;base=26;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-5890" y="940" width="510" height="56.99" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-73" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;Yes, i want to explain that enough rest will help me do my work better.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.03;position2=0;base=21;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-6170" y="1020.01" width="580" height="49.99" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-74" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;That&#39;s a good point. It sounds like you&#39;ve tried to talk to her about this.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.91;position2=1;base=32;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-5960" y="1090" width="580" height="56.99" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
