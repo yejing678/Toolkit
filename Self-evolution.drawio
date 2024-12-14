@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
   <diagram name="Page-1" id="JJCV0a0skRuT-O4mbDWe">
-    <mxGraphModel dx="8268" dy="1921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="8527" dy="2066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -414,7 +414,7 @@
           <mxGeometry x="-6470" y="4620" width="330" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SOH38_3WXaLhCbqXXnT1-33" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-5100" y="-90" width="840" height="1070" as="geometry" />
+          <mxGeometry x="-5100" y="-90" width="840" height="1030" as="geometry" />
         </mxCell>
         <mxCell id="SOH38_3WXaLhCbqXXnT1-34" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;hello?&lt;/span&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.11;position2=0;base=21;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-5080" y="-50" width="90" height="50" as="geometry" />
@@ -464,8 +464,11 @@
         <mxCell id="SOH38_3WXaLhCbqXXnT1-50" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;I undersatnd that.&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 19px; background-color: initial;&quot;&gt;Have you considered discussing your thought with your partner again?&lt;/span&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.95;position2=1;base=17;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-4980" y="720" width="700" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SOH38_3WXaLhCbqXXnT1-52" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;she dosen&#39;t want to go, the work is heavy...&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.03;position2=0;base=21;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-5080" y="790" width="360" height="49.99" as="geometry" />
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-52" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;she dosen&#39;t want to go, the work is heavy... thank you&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.03;position2=0;base=21;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-5080" y="790" width="420" height="49.99" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-53" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;Take care of yourself and have enough rest.&amp;nbsp;Feel free to reach out if you ever need someone to talk to or any other assistance. I&#39;m always here.&lt;/span&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.95;position2=1;base=17;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-5010" y="860" width="725" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
