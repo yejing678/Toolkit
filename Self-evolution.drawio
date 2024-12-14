@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
   <diagram name="Page-1" id="JJCV0a0skRuT-O4mbDWe">
-    <mxGraphModel dx="10470" dy="2053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="10470" dy="3153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -412,6 +412,54 @@
         </mxCell>
         <mxCell id="SOH38_3WXaLhCbqXXnT1-32" value="&lt;font style=&quot;font-size: 23px;&quot; face=&quot;Times New Roman&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;background-color: rgb(0, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;i style=&quot;&quot;&gt;Prompt for vallina&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-6470" y="4620" width="330" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-33" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-5100" y="-80" width="840" height="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-34" value="&lt;font style=&quot;font-size: 19px;&quot; face=&quot;Times New Roman&quot;&gt;I have encountered big problems in my scientific research recently, and I am very anxious.&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.02;position2=0;base=21;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-5080" y="-50" width="740" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-35" value="&lt;font style=&quot;font-size: 19px;&quot; face=&quot;Times New Roman&quot;&gt;Hello! I&#39;m here to listen. Can you tell me more about the issues you&#39;re facing?&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.95;position2=1;base=17;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-4900" y="22" width="620" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-36" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;I&#39;m trying hard to experiment, but the results are not good.&lt;/span&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.02;position2=0;base=21;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-5080" y="97" width="470" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-37" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 19px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;&amp;nbsp;It sounds challenging when your experiments aren&#39;t yielding the desired outcome. It&#39;s&amp;nbsp; &amp;nbsp;understandable that it would make you feel frustrated and worried. Would you like to discuss&amp;nbsp; &amp;nbsp;specific challenges or difficulties you&#39;ve been experiencing?&lt;/span&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.95;position2=1;base=17;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-5020" y="173.75" width="740" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-38" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 19px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;&amp;nbsp; I tried other researchers’ methods based on their papers, but they didn’t work on my model.&amp;nbsp; &amp;nbsp; &amp;nbsp;My&amp;nbsp; supervisor thinks I’m terrible.&lt;/span&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.02;position2=0;base=21;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-5080" y="289.52" width="740" height="69.48" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-39" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.95;position2=1;base=17;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-5020" y="386.75" width="740" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-40" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 19px; background-color: initial;&quot;&gt;That must be really disheartening and discouraging having someone who should provide support criticizing your efforts. Their negative feedback can definitely add to your anxiety levels. But you know research is never easy.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-5005" y="412.75" width="710" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-41" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot; face=&quot;Times New Roman&quot;&gt;&amp;nbsp; Research is too painful and lonely. I want to drop out.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.02;position2=0;base=21;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-5080" y="499.01" width="450" height="49.99" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-42" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.95;position2=1;base=17;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-5020" y="575.3800000000001" width="740" height="113.52" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-43" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot; face=&quot;Times New Roman&quot;&gt;Please know that quitting isn&#39;t an option yet because each experience has its value lessons. Researching requires perseverance, resilience, and adaptability. Considering leaving now wouldn&#39;t allow you to gain as much from what you started with. Your journey through difficult times will enable future growth.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-5005" y="611.3800000000001" width="710" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-44" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&amp;nbsp;You are right.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.02;position2=0;base=21;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-5080" y="713.01" width="130" height="49.99" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-45" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.95;position2=1;base=17;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-5020" y="784" width="740" height="113.52" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-46" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;It takes courage to share such personal struggles and express feelings of frustration. Setbacks and rejections come naturally in any field, especially research where new discoveries often require overcoming obstacles. You&#39;ve made progress already by reflecting on how far you have gone despite the initial failures.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-5005" y="820" width="710" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-47" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot; face=&quot;Times New Roman&quot;&gt;Thank you! I will continue to work hard&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.02;position2=0;base=21;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-5080" y="924" width="350" height="49.99" as="geometry" />
+        </mxCell>
+        <mxCell id="SOH38_3WXaLhCbqXXnT1-48" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i style=&quot;background-color: rgb(0, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;Academic Pressure&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-5070" y="-100" width="250" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
